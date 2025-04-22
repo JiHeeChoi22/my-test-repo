@@ -3,7 +3,8 @@
 - feat: Create adder.{py}
 - feat: Add Feature - Return sum of 2 numbers
 ```
-def sum_numbers(a, b)
+# Function add
+def adder(a, b)
     return a + b
 ```
 - fix: Rename Function add to adder
